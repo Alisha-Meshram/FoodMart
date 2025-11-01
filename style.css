@@ -1,0 +1,28 @@
+
+#top-navbar .top-navbar{
+display: flex;
+justify-content: space-between;
+}
+
+/* hero-section */
+#hero-section {
+    margin: 2rem 1rem;
+    background-image: url('img/hero-background.jpg');
+    padding: 2rem 1rem;
+    background-size: cover;
+ background-repeat: no-repeat;
+}
+#hero-section .hero-content .carousel{
+    background-color: #e6f3fa;
+    border-radius: 15px;
+}
+#hero-section .hero-content .cart-2{
+background-color: #eef5e5;
+margin-bottom: 2rem;
+border-radius: 15px;
+}
+
+#hero-section .hero-content .cart-3{
+background-color: #f9ebe7;
+border-radius: 15px;
+}
